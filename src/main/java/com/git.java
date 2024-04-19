@@ -7,6 +7,7 @@ public class git {
         System.out.println("h2");
         System.out.println("mas");
         System.out.println("hot");
+        System.out.println("push1");
     }
 
 }
