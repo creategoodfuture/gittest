@@ -8,6 +8,7 @@ public class git {
         System.out.println("mas");
         System.out.println("hot");
         System.out.println("push1");
+        System.out.println("pull1");
     }
 
 }
